@@ -36,11 +36,11 @@ Power BI, Power Query, DAX, Smart Narrative, Matrix Visual, Conditional Formatti
 <table>
   <tr>
     <td><img src="Main Dashboard Screen.png" width="500"></td>
-    <td><img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="500"></td>
+    <td><img src="Filtered By Month.png" width="500"></td>
   </tr>
   <tr>
-    <td><img src="U Jawaid Dashboard Screen 5 SQL.png" width="500"></td>
-    <td><img src="U Jawaid Dashboard Screen 6 Cleaned Data.png" width="500"></td>
+    <td><img src="Filtered By Expense Category.png" width="500"></td>
+    <td><img src="Raw Data Before Cleaning.png" width="500"></td>
   </tr>
 </table>
 
