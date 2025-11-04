@@ -1,8 +1,5 @@
-# Variance-Analysis-Dashboard
+# Variance Analysis Tracker- Interative Power BI Dashboard-  Enabling Spending Recalibration
 Compares actual expenses with budget showing variances for quick financial analysis. 
-
-🧾 Project Title
-Variance Analysis Tracker- Interative Power BI Dashboard-  Enabling Spending Recalibration 
 
 
 🎯 Business Problem
