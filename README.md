@@ -10,6 +10,7 @@ Departments needed a clear, real-time view of budget adherence to support financ
 Developed a one-page Power BI dashboard that visualizes budget vs actual spend across expense categories and months. Included KPI cards, variance analysis, and narrative insights.
 
 
+
 📊 **Key Features**
 - Pivoted dataset using Power Query for clean time-series analysis
 - DAX measures for variance percentage
@@ -19,8 +20,11 @@ Developed a one-page Power BI dashboard that visualizes budget vs actual spend a
 - Currency formatting and slicers for dynamic filtering
 - Slicers for expense categories and months.
 
+
+
 📈 **Impact**
 Enabled stakeholders to quickly identify budget risks, reallocate resources, and monitor financial performance. The dashboard supports monthly reviews and strategic planning.
+
 
 
 🧰 **Tools Used**
