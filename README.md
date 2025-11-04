@@ -2,7 +2,7 @@
 Compares actual expenses with budget showing variances for quick financial analysis. 
 
 
-🎯 Business Problem
+#🎯 Business Problem
 Departments needed a clear, real-time view of budget adherence to support financial planning and operational decisions. Manual tracking lacked visibility and trend analysis.
 
 
