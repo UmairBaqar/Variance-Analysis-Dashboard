@@ -6,7 +6,7 @@ Compares actual expenses with budget showing variances for quick financial analy
 Departments needed a clear, real-time view of budget adherence to support financial planning and operational decisions. Manual tracking lacked visibility and trend analysis.
 
 
-🛠️** Solution**
+🛠️**Solution**
 Developed a one-page Power BI dashboard that visualizes budget vs actual spend across expense categories and months. Included KPI cards, variance analysis, and narrative insights.
 
 
