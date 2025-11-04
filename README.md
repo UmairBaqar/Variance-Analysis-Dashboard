@@ -28,7 +28,6 @@ Enabled stakeholders to quickly identify budget risks, reallocate resources, and
 
 
 🧰 **Tools Used**
-List the tools and techniques you applied.
 Power BI, Power Query, DAX, Smart Narrative, Matrix Visual, Conditional Formatting, Bookmarks, Tooltips
 
 
