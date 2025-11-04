@@ -35,7 +35,7 @@ Power BI, Power Query, DAX, Smart Narrative, Matrix Visual, Conditional Formatti
 
 <table>
   <tr>
-    <td><img src="U Jawaid Dashboard Screen 1.png" width="500"></td>
+    <td><img src="Main Dashboard Screen.png" width="500"></td>
     <td><img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="500"></td>
   </tr>
   <tr>
