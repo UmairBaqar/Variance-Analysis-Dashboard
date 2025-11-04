@@ -31,4 +31,17 @@ List the tools and techniques you applied.
 Power BI, Power Query, DAX, Smart Narrative, Matrix Visual, Conditional Formatting, Bookmarks, Tooltips
 
 
+<h3>📷 Project Preview</h3>
+
+<table>
+  <tr>
+    <td><img src="U Jawaid Dashboard Screen 1.png" width="500"></td>
+    <td><img src="U Jawaid Dashboard Screen 4 Data Modeling.png" width="500"></td>
+  </tr>
+  <tr>
+    <td><img src="U Jawaid Dashboard Screen 5 SQL.png" width="500"></td>
+    <td><img src="U Jawaid Dashboard Screen 6 Cleaned Data.png" width="500"></td>
+  </tr>
+</table>
+
 
