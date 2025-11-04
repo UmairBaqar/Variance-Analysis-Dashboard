@@ -30,6 +30,8 @@ Enabled stakeholders to quickly identify budget risks, reallocate resources, and
 🧰 **Tools Used**
 Power BI, Power Query, DAX, Smart Narrative, Matrix Visual, Conditional Formatting, Bookmarks, Tooltips
 
+**🔗 Link To Project Files (includes Power Bi Pbix file):**  
+[📂 View Project Repository](https://github.com/UmairBaqar/Variance-Analysis-Dashboard)
 
 <h3>📷 Project Preview</h3>
 
